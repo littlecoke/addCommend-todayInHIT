@@ -1,0 +1,19 @@
+{
+  "name": "addcommend-todayinhit",
+  "version": "1.0.0",
+  "description": "add commend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rccoder",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.58.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/rccoder/addCommend-todayInHIT"
+  }
+}
